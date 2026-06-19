@@ -17,6 +17,18 @@ This project enables users to query custom knowledge bases through natural langu
 - Source-Grounded Responses
 - Multi-Agent Architecture (Upcoming)
 
+<h2>📸 Application Screenshots</h2>
+
+<h3>Home Screen</h3>
+<img src="docs/home.png" width="900">
+
+<h3>Document Grounded Response</h3>
+<img src="docs/answer.png" width="900">
+
+<h3>Out-of-Context Query Handling</h3>
+<img src="docs/no_answer.png" width="900">
+
+
 ## Architecture
 
 User Query
